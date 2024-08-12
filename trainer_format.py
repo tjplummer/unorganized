@@ -8,7 +8,7 @@ class Team:
     moves   = [str]
     mega    = bool
 
-    def New(self, pokemon, nature, ability, item, moves, mega):
+    def __init__(self, pokemon, nature, ability, item, moves, mega):
         self.pokemon = pokemon
         self.nature  = nature
         self.ability = ability
@@ -59,9 +59,15 @@ def CheckTrainer(line):
     m = re.search(r'Lv.\d{2}', line)
 
     if m is None:
-        return False
+        yield False
     else:
-        return True
+        yield True
+
+    try:
+        line.index("*")
+        yield 1
+    except ValueError:
+        yield 0
 
 def GetLevel(line):
     return line.split(" ")[1]
@@ -96,7 +102,7 @@ def GetMoves(line):
 
     print(moves)
 
-    return ""
+    return [""]
 
 def GetAbility(line):
     return ""
@@ -104,11 +110,19 @@ def GetAbility(line):
 def GetNature(line):
     return ""
 
+def CheckMega(line):
+    return True
+
+def CheckB2B(line):
+    return True
+
 file    = open("trainer.txt", "r" )
 battles = Battles();
 trainer = ''
 loction = ''
 flag    = False
+b2b     = False
+team    = []
 
 for line in file.readlines():
     # Check Route and if its in the dictionary
@@ -124,9 +138,23 @@ for line in file.readlines():
                 curkey = line
 
         if flag == False:
-            if CheckTrainer(line) == True:
+            chk = CheckTrainer(line)
+
+            if next(chk) == True:
+                if trainer == ''
+
+
                 trainer = line
+                b2b = next(chk)
             else:
-                print(line)
+                poke    = GetPoke(line)
+                lvl     = GetLevel(line)
+                item    = GetItem(line)
+                moves   = GetMoves(line)
+                ability = GetAbility(line)
+                nature  = GetNature(line)
+                mega    = CheckMega(line)
+
+                team.append(Team(poke, nature, ability, item, moves, mega))
 
 file.close()

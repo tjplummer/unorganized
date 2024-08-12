@@ -122,14 +122,12 @@ Dustox Lv.17 @Black Sludge: Venoshock, Infestation, Roost, Toxic [Bold|Shield Du
 Slateport Museum
 ------
 
-- Consecutive battles with no healing in between Grunts 1 and 2.
-
-Team Aqua Grunt [Boss]
+Team Aqua Grunt [Boss]*
 Murkrow Lv.15 @Lum Berry: Wing Attack, Payback, Night Shade [Jolly|Insomnia]
 Skrelp Lv.16 @Black Sludge: Water Pulse, Acid, Protect, Toxic [Timid|Poison Point]
 Tirtouga Lv.16 @Rindo Berry: Ancient Power, Brine, Aqua Jet, Mud Shot [Sassy|Solid Rock]
 
-Team Aqua Grunt [Boss]
+Team Aqua Grunt [Boss]*
 Mareanie Lv.16 @Black Sludge: Venoshock, Baneful Bunker, Soak, Toxic [Calm|Merciless]
 Frillish Lv.15 @Lum Berry: Hex, Water Pulse, Shock Wave, Recover [Bold|Cursed Body]
 Whirlipede Lv.16 @Rocky Helmet: Venoshock, Poison Tail, Pin Missile, Rollout [Sassy|Speed Boost]
@@ -646,23 +644,21 @@ Pidgeot Lv.42 @Pidgeotite: Hurricane, Hyper Voice, Heat Wave, Hidden Power Grass
 Winstrate House (Route 111)
 ------
 
-- Consecutive battles with no healing in between from Victor to Vicky.
-
-Winstrate Victor
+Winstrate Victor*
 Toucannon Lv.43 @Lum Berry: Boomburst, Drill Peck, Bullet Seed, Supersonic [Hasty|Skill Link]
 Emolga Lv.43 @Lum Berry: Thunderbolt, Dual Wingbeat, Iron Tail, Roost [Hasty|Motor Drive]
 
-Winstrate Victoria
+Winstrate Victoria*
 Abomasnow Lv.43 @Lum Berry: Wood Hammer, Ice Beam, Ice Shard, Earthquake [Hasty|Soundproof]
 Centiskorch Lv.44 @Leftovers: Fire Lash, Skitter Smack, Coil, Protect [Careful|White Smoke]
 Seismitoad Lv.43 @Lum Berry: Earth Power, Muddy Water, Venoshock, Toxic [Timid|Water Absorb]
 
-Winstrate Vivi
+Winstrate Vivi*
 Ribombee Lv.44 @Focus Sash: Dazzling Gleam, Signal Beam, Energy Ball, Stun Spore [Timid|Shield Dust]
 Flygon Lv.43 @Lum Berry: Dragon Claw, Scorching Sands, Flamethrower, Roost [Hasty|Levitate]
 Sudowoodo Lv.43 @Lum Berry: Head Smash, Double Edge, Wood Hammer, Submission [Adamant|Rock Head]
 
-Winstrate Vicky
+Winstrate Vicky*
 Medicham Lv.44 @Medichamite: High Jump Kick, Zen Headbutt, Thunder Punch, Fake Out [Jolly|Inner Focus]
 Krookodile Lv.44 @Lum Berry: Earthquake, Crunch, Pursuit, Aqua Tail [Jolly|Moxie]
 
@@ -1752,14 +1748,12 @@ Sawk Lv.73 @Lum Berry: Close Combat, Reversal, Knock Off, Counter [Jolly|Sturdy]
 Throh Lv.73 @Leftovers: Revenge, Payback, Bulk Up, Recover [Sassy|Guts]
 Lucario Lv.72 @Normal Gem: Focus Blast, Flash Cannon, Stone Edge, Extreme Speed [Hasty|Steadfast]
 
-- Consecutive battles with no healing in between Aqua Grunts 1 and 2.
-
-Team Aqua Grunt
+Team Aqua Grunt*
 Crawdaunt Lv.75 @Focus Sash: Crabhammer, Knock Off, Aqua Jet, Close Combat [Jolly|Adaptability]
 Kingdra Lv.73 @Scope Lens: Draco Meteor, Liquidation, Octazooka, Focus Energy [Hasty|Sniper]
 Gumshoos Lv.74 @Quick Claw: Frustration, Earthquake, Crunch, Endeavor [Adamant|Adaptability]
 
-Team Aqua Grunt
+Team Aqua Grunt*
 Dragonite Lv.73 @White Herb: Draco Meteor, Dual Wingbeat, Earthquake, Roost [Hasty|Multiscale]
 Avalugg Lv.74 @Lum Berry: Avalanche, Stone Edge, Body Press, Mirror Coat [Adamant|Sturdy]
 Floatzel Lv.73 @Life Orb: Hydro Pump, Waterfall, Ice Beam, Low Kick [Hasty|Water Veil]
@@ -2132,15 +2126,13 @@ Marill Lv.1 @Quick Claw: Misty Explosion [Quirky|Huge Power]
 Tauros Lv.85 @Dark Gem: Return, Zen Headbutt, Lash Out, Role Play [Jolly|Intimidate]
 Golduck Lv.85 @Life Orb: Aqua Jet, Cross Chop, Zen Headbutt, Role Play [Jolly|Swift Swim]
 
-- Consecutive battles with no healing in between Tate and Liza.
-
-Leader Tate [Boss]
+Leader Tate [Boss]*
 Azelf Lv.84 @Focus Sash: Future Sight, Explosion, Knock Off, Stealth Rock [Naive|Levitate]
 Latios Lv.85 @Latiosite: Draco Meteor, Zen Headbutt, Earthquake, Dragon Dance [Hasty|Levitate]
 Zoroark Lv.86 @Dark Gem: Night Daze, Pursuit, Sludge Bomb, Aura Sphere [Hasty|Illusion]
 Hoopa Lv.86 @Leftovers: Hyperspace Hole, Shadow Ball, Aura Sphere, Substitute [Timid|Magician]
 
-Leader Liza [Boss]
+Leader Liza [Boss]*
 Tapu_Lele Lv.85 @Assault Vest: Moonblast, Psychic, Draining Kiss, Natures Madness [Timid|Psychic Surge]
 Latias Lv.85 @Soul Dew: Dragon Pulse, Aura Sphere, Mystical Fire, Calm Mind [Timid|Levitate]
 Metagross Lv.85 @Metagrossite: Meteor Mash, Zen Headbutt, Earthquake, Pursuit [Jolly|Clear Body]
@@ -2180,17 +2172,15 @@ Xurkitree Lv.87 @Leftovers: Thunderbolt, Grass Knot, Hypnosis, Substitute [Timid
 Buzzwole Lv.87 @Assault Vest: Leech Life, Drain Punch, Stone Edge, Ice Punch [Jolly|Beast Boost]
 Charizard Lv.87 @Charizardite X: Flare Blitz, Dragon Claw, Dragon Dance, Roost [Jolly|Blaze]
 
-- Consecutive battles with no healing in between from Grunt 5 to 7.
-
-Team Magma Grunt
+Team Magma Grunt*
 Armaldo Lv.84 @Bright Powder: Leech Life, Rock Blast, Earthquake, Swords Dance [Adamant|Battle Armor]
 Rotom_Heat Lv.85 @White Herb: Overheat, Thunderbolt, Will O Wisp, Thunder Wave [Timid|Levitate]
 
-Team Magma Grunt
+Team Magma Grunt*
 Machamp Lv.85 @Quick Claw: Dynamic Punch, Stone Edge, Knock Off, Bulk Up [Adamant|No Guard]
 Talonflame Lv.85 @Flying Gem: Flare Blitz, Acrobatics, Swords Dance, Will O Wisp [Jolly|Flame Body]
 
-Team Magma Grunt
+Team Magma Grunt*
 Bisharp Lv.85 @Lum Berry: Iron Head, Pursuit, Psycho Cut, Low Kick [Jolly|Defiant]
 Weezing_Galarian Lv.85 @Black Sludge: Sludge Bomb, Flamethrower, Protect, Will O Wisp [Timid|Levitate]
 Guzzlord Lv.86 @Focus Band: Dragon Rush, Knock Off, Heavy Slam, Earthquake [Adamant|Beast Boost]
@@ -2733,16 +2723,14 @@ Raichu_Alolan Lv.90 @Focus Sash: Rising Voltage, Surf, Grass Knot, Nasty Plot [M
 Slowking_Galarian Lv.90 @Electric Seed: Psychic, Scald, Calm Mind, Slack Off [Bold|Regenerator]
 Clawitzer Lv.91 @Leftovers: Water Pulse, Aura Sphere, Dark Pulse, Terrain Pulse [Timid|Mega Launcher]
 
-- Consecutive battles with no healing in between Brianna and Pearl.
-
-Lady Brianna
+Lady Brianna*
 Kabutops Lv.89 @Focus Sash: Stone Edge, Liquidation, Metal Sound, Stealth Rock [Jolly|Weak Armor]
 Gothitelle Lv.88 @Psychic Gem: Psychic, Thunderbolt, Signal Beam, Hypnosis [Timid|Shadow Tag]
 Accelgor Lv.88 @Life Orb: Bug Buzz, Focus Blast, Energy Ball, Spikes [Timid|Sticky Hold]
 Togedemaru Lv.88 @Salac Berry: Iron Tail, Zing Zap, Flail, Endeavor [Jolly|Sturdy]
 Whiscash Lv.89 @Rindo Berry: Earthquake, Waterfall, Zen Headbutt, Dragon Dance [Jolly|Oblivious]
 
-Lass Pearl
+Lass Pearl*
 Cryogonal Lv.90 @Light Clay: Blizzard, Freeze Dry, Explosion, Aurora Veil [Naive|Levitate]
 Sigilyph Lv.89 @Weakness Policy: Air Slash, Stored Power, Calm Mind, Roost [Timid|Magic Guard]
 Electivire Lv.88 @Expert Belt: Thunderbolt, Focus Blast, Weather Ball, Magnet Rise [Timid|Vital Spirit]
