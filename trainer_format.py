@@ -17,26 +17,18 @@ class Team:
         self.mega    = mega
 
 class Battle:
-    location = str
     names    = [str]
     optional = bool
     gauntlet = bool
     double   = bool
     teams    = [Team]
 
-    def Single(self, name, optional, gauntlet, team):
+    def New(self, name, optional, gauntlet, double, team):
         self.names    = name
         self.optional = optional
         self.gauntlet = gauntlet
-        self.double   = False
+        self.double   = double
         self.teams    = team
-
-    def Double(self, names, optional, gauntlet, teams):
-        self.names    = names
-        self.optional = optional
-        self.gauntlet = gauntlet
-        self.double   = True
-        self.teams    = teams
 
 
 class Battles:
@@ -56,18 +48,23 @@ def find_nth(haystack: str, needle: str, n: int) -> int:
     return start
 
 def CheckTrainer(line):
-    m = re.search(r'Lv.\d{2}', line)
-
-    if m is None:
-        yield False
-    else:
+    try:
+        line.index("Lv.")
         yield True
+    except ValueError:
+        yield False
 
     try:
         line.index("*")
-        yield 1
+        yield True
     except ValueError:
-        yield 0
+        yield False
+
+    try:
+        line.index("Double")
+        yield True
+    except ValueError:
+        yield False
 
 def GetLevel(line):
     return line.split(" ")[1]
@@ -118,10 +115,11 @@ def CheckB2B(line):
 
 file    = open("trainer.txt", "r" )
 battles = Battles();
-trainer = ''
+trainer = None
 loction = ''
 flag    = False
 b2b     = False
+double  = False
 team    = []
 
 for line in file.readlines():
@@ -141,11 +139,13 @@ for line in file.readlines():
             chk = CheckTrainer(line)
 
             if next(chk) == True:
-                if trainer == ''
+                if trainer is not None:
+                    print(line)
 
 
                 trainer = line
-                b2b = next(chk)
+                b2b     = next(chk)
+                double  = next(chk)
             else:
                 poke    = GetPoke(line)
                 lvl     = GetLevel(line)

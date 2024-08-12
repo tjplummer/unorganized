@@ -1022,19 +1022,17 @@ Weezing_Galarian Lv.54 @Lum Berry: Play Rough, Explosion, Payback, Overheat [Bra
 Magmortar Lv.54 @Sitrus Berry: Flamethrower, Solar Beam, Belch, Earthquake [Hasty|Vital Spirit]
 Turtonator Lv.53 @Lum Berry: Overheat, Dragon Claw, Heat Crash, Shell Smash [Hasty|Shell Armor]
 
-- Gauntlet with no access to a PokéCenter from Gerald to Axle.
-
-Cool Trainer Gerald
+Cool Trainer Gerald*
 Ninetales Lv.54 @Focus Sash: Flamethrower, Psychic, Hypnosis, Nasty Plot [Timid|Drought]
 Solrock Lv.54 @Fire Gem: Zen Headbutt, Rock Slide, Overheat, Rock Polish [Lonely|Levitate]
 Toucannon Lv.53 @Fire Gem: Brave Bird, Overheat, Bullet Seed, Rock Blast [Naive|Skill Link]
 
-Kindler Keegan
+Kindler Keegan*
 Rapidash_Galarian Lv.54 @Life Orb: Play Rough, Zen Headbutt, Mystical Fire, Will O Wisp [Hasty|Pastel Veil]
 Blissey Lv.55 @Chople Berry: Hyper Voice, Fire Blast, Psychic, Counter [Modest|Serene Grace]
 Darmanitan Lv.52 @Life Orb: Flare Blitz, Zen Headbutt, Rock Slide, Earthquake [Jolly|Sheer Force]
 
-Kindler Axle
+Kindler Axle*
 Infernape Lv.54 @Focus Sash: Fire Blast, Focus Blast, Grass Knot, Fake Out [Timid|Blaze]
 Houndoom Lv.55 @Lum Berry: Fire Blast, Dark Pulse, Pursuit, Destiny Bond [Hasty|Unnerve]
 Centiskorch Lv.55 @Charti Berry: Fire Lash, Leech Life, Thunder Fang, Coil [Jolly|White Smoke]
@@ -1737,13 +1735,13 @@ Gothitelle Lv.74 @Expert Belt: Psychic, Energy Ball, Thunderbolt, Shadow Ball [T
 
 - Gauntlet with no access to a PokéCenter from Kayla to Aqua Grunt 2.
 
-Psychic Kayla
+Psychic Kayla*
 Golduck Lv.75 @Life Orb: Hydro Pump, Focus Blast, Ice Beam, Psychic [Timid|Swift Swim]
 Bronzong Lv.73 @Colbur Berry: Gyro Ball, Body Press, Payback, Iron Defense [Sassy|Heatproof]
 Corsola_Galarian Lv.74 @Eviolite: Night Shade, Strength Sap, Toxic, Will O Wisp [Bold|Cursed Body]
 Mandibuzz Lv.74 @Rocky Helmet: Foul Play, Knock Off, Infestation, Roost [Careful|Overcoat]
 
-Black Belt Zander
+Black Belt Zander*S
 Sawk Lv.73 @Lum Berry: Close Combat, Reversal, Knock Off, Counter [Jolly|Sturdy]
 Throh Lv.73 @Leftovers: Revenge, Payback, Bulk Up, Recover [Sassy|Guts]
 Lucario Lv.72 @Normal Gem: Focus Blast, Flash Cannon, Stone Edge, Extreme Speed [Hasty|Steadfast]
@@ -2185,12 +2183,11 @@ Bisharp Lv.85 @Lum Berry: Iron Head, Pursuit, Psycho Cut, Low Kick [Jolly|Defian
 Weezing_Galarian Lv.85 @Black Sludge: Sludge Bomb, Flamethrower, Protect, Will O Wisp [Timid|Levitate]
 Guzzlord Lv.86 @Focus Band: Dragon Rush, Knock Off, Heavy Slam, Earthquake [Adamant|Beast Boost]
 
-Magma Leader Maxie [Boss]
+Magma Leader Maxie [Boss Double Battle With Magma Admin Tabitha]
 Landorus Lv.88 @Life Orb: Earth Power, Psychic, Weather Ball, Protect [Timid|Sheer Force]
 Heatran Lv.88 @Air Balloon: Magma Storm, Heat Wave, Flash Cannon, Earth Power [Timid|Flash Fire]
 Garchomp Lv.89 @Garchompite: High Horsepower, Scale Shot, Stone Edge, Protect [Jolly|Rough Skin]
-
-Magma Admin Tabitha
+~
 Tyranitar Lv.89 @Tyranitarite: Crunch, Low Kick, Heavy Slam, Taunt [Adamant|Sand Stream]
 Ferrothorn Lv.88 @Rocky Helmet: Power Whip, Body Press, Knock Off, Leech Seed [Impish|Iron Barbs]
 Moltres Lv.88 @Fire Gem: Burn Up, Hurricane, Detect, Tailwind [Timid|Flame Body]
