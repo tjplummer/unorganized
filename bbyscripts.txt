@@ -1,0 +1,5 @@
+script ran to get stats
+i=0; for x in {A..J}; do for z in {A..P}; do echo $x$z: $i; i=$(($i+1));  done; done
+
+python for inverting dictionary
+inv_map = {v: k for k, v in my_map.items()}
